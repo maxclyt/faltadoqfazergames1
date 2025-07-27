@@ -16,3 +16,19 @@ fat(x)
 print(f'o fatorial da resenha {x} é {moral}')
                    
        
+#resenha 2
+import time
+
+seepeito = 1
+spectator = 1
+
+print("when spectator see peito pela primeira vez print:" )
+time.sleep(2)
+if spectator == seepeito:
+    print("meu deus do ceu pai")
+    time.sleep(1)
+    print("nossa senhora ta")
+    time.sleep(1)
+    print("deus abencoe")
+    
+    
